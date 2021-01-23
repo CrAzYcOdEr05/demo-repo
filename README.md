@@ -1,3 +1,3 @@
-#Demo Project
+# Demo Project
 
-First writting on git.
+First writting on git!
